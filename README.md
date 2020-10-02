@@ -8,7 +8,7 @@ I'm a co-founder of two companies:
 
 <br>
 
-### Enzyme Labs, in Seoul, S. Korea
+### <a href="https://enzymelabs.co" target="_blank" rel="noopener">Enzyme Labs</a>, in Seoul, S. Korea
 <a href="https://enzymelabs.co" target="_blank" rel="noopener">
   <img src="/assets/header-enzyme.jpg" alt="Enzymelabs">
 </a>
