@@ -1,14 +1,14 @@
 # Hey 👋 I'm Titus Decali
 
 I'm a co-founder of two companies:
-### <a href="https://enzymelabs.co" target="_blank" rel="noopener">Blueprint Ventures</a> in Vancouver, CA.
+### <a href="https://enzymelabs.co" target="_blank" rel="noopener">Blueprint.vc</a> in Vancouver, CA.
 <a href="https://blueprint.vc" target="_blank" rel="noopener">
   <img src="/assets/header-blueprint.jpg" alt="Blueprint">
 </a>
 
 <br>
 
-### <a href="https://enzymelabs.co" target="_blank" rel="noopener">EnzymeLabs, Co.</a>, in Seoul, S. Korea
+### <a href="https://enzymelabs.co" target="_blank" rel="noopener">EnzymeLabs.co</a>, in Seoul, S. Korea
 <a href="https://enzymelabs.co" target="_blank" rel="noopener">
   <img src="/assets/header-enzyme.jpg" alt="Enzymelabs">
 </a>
