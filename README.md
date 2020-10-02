@@ -2,14 +2,14 @@
 
 I'm a co-founder of two companies:
 ### Blueprint Ventures in Vancouver, CA.
-<a href="https://blueprint.vc" target="blank">
+<a href="https://blueprint.vc" target="blank" rel="noopener">
   <img src="/assets/header-blueprint.jpg" alt="Blueprint">
 </a>
 
 <br>
 
 ### Enzyme Labs, in Seoul, S. Korea
-<a href="https://enzymelabs.co" target="blank">
+<a href="https://enzymelabs.co" target="_blank" rel="noopener">
   <img src="/assets/header-enzyme.jpg" alt="Enzymelabs">
 </a>
 
