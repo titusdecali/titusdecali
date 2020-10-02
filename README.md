@@ -2,7 +2,7 @@
 
 I'm a co-founder of two companies:
 ### Blueprint Ventures in Vancouver, CA.
-<a href="https://blueprint.vc" target="blank" rel="noopener">
+<a href="https://blueprint.vc" target="_blank" rel="noopener">
   <img src="/assets/header-blueprint.jpg" alt="Blueprint">
 </a>
 
