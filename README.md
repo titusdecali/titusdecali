@@ -1,6 +1,6 @@
 # Hey 👋 I'm Titus Decali
 
-## I'm a co-founder of two companies:
+### I'm a co-founder of two companies:
 ### Blueprint Ventures in Vancouver, CA.
 <a href="https://blueprint.vc" target="_blank">
   <img src="/assets/header-blueprint.jpg" alt="Blueprint">
@@ -17,8 +17,8 @@
 
 
 ## For more about me
-- 🌐 View my current projects at [TitusDecali.com](https://titusdecali.com/)
-- 👋 View my personal [Medium Blog](https://medium.com/@titusdecali)
+- 🔥 View my current projects at [TitusDecali.com](https://titusdecali.com/)
+- ✍️ View my personal [Medium Blog](https://medium.com/@titusdecali)
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
