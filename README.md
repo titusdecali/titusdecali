@@ -9,7 +9,7 @@ I'm a freelance designer & Vue developer living in Seoul, S. Korea
 <br>
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=titusdecali&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 <p align = "center">
