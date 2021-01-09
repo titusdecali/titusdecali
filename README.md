@@ -8,13 +8,11 @@ I'm a freelance designer & Vue developer living in Seoul, S. Korea
 
 <br>
 
-<p align = "center">
+<p align = "center" width = "80%" >
   <img src="https://github-readme-stats.vercel.app/api?username=titusdecali&show_icons=true&theme=tokyonight&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titusdecali&hide=css,java,html&theme=tokyonight">
-<p width = "80%"
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=titusdecali&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px
-/>
+
+ <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=titusdecali&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
 </p>
 
 <br>
