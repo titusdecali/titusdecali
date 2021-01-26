@@ -37,7 +37,7 @@ I'm a freelance designer & Vue developer living in Seoul, S. Korea
 
 ## For more about me
 
-- 🔥 View my current projects at [TitusDecali.com](https://titusdecali.com/)
-- ✍️ View my personal [Medium Blog](https://medium.com/@titusdecali)
+- 🔥  View my current projects at [TitusDecali.com](https://titusdecali.com/)
+- ✍️  I write about design & Vue on my [Medium Blog](https://medium.com/@titusdecali)
 
 </details>
