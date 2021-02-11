@@ -3,18 +3,6 @@ I'm a freelance designer & Vue developer living in Seoul, S. Korea
 
 <br>
 
-<details open>
- <summary> 📈 <b>Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=titusdecali&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titusdecali&hide=css,java,html&theme=tokyonight">
-</p>
-
-<br>
-
 ## I'm a co-founder of two SaaS studios
 
 ### <a href="https://enzymelabs.co" target="_blank" rel="noopener">Blueprint.vc</a> in Vancouver, CA.
