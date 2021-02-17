@@ -19,7 +19,7 @@ I'm a freelance designer & Vue developer living in Seoul, S. Korea
 </a>
 --->
 
-<a href="https://twitter.com/titusdecali" target="_blank" rel="nofollow"><img align="right" alt="Decali's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/titusdecali" target="_blank" rel="nofollow"><img align="right" alt="Decali's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/titusdecali" target="_blank" rel="nofollow"><img align="left" alt="Decali's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/titusdecali" target="_blank" rel="nofollow"><img align="left" alt="Decali's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br>
 
