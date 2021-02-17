@@ -1,8 +1,7 @@
 # Hey 👋 I'm Titus Decali
 I'm a freelance designer & Vue developer living in Seoul, S. Korea
-
-<br>
 <!--- 
+<br>
 ## I'm a co-founder of two SaaS studios
 
 ### <a href="https://enzymelabs.co" target="_blank" rel="noopener">Blueprint.vc</a> in Vancouver, CA.
