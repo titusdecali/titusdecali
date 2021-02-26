@@ -1,5 +1,5 @@
 # Hey 👋 I'm Titus Decali
-I'm a freelance designer & Vue developer living in Seoul, S. Korea
+I'm a Vue developer & freelance UX/UI product designer living in Seoul, S. Korea
 <!--- 
 <br>
 ## I'm a co-founder of two SaaS studios
