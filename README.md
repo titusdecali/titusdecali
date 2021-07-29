@@ -1,5 +1,7 @@
 # Hey 👋 I'm Titus Decali
-I'm the founder of Troop.app, a Vue developer, & UX/UI product designer.
+I'm the founder of Troop.app, a Vue.js developer & UX/UI product designer.
+I design and build apps to make the challenging task of marketing easier for everyone.
+
 <!--- 
 <br>
 ## I'm a co-founder of two SaaS studios
