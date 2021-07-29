@@ -1,5 +1,5 @@
 # Hey 👋 I'm Titus Decali
-I'm the founder of Troop.app, a Vue developer & UX/UI product designer living in Seoul, S. Korea
+I'm the founder of Troop.app, a Vue developer, & UX/UI product designer.
 <!--- 
 <br>
 ## I'm a co-founder of two SaaS studios
