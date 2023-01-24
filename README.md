@@ -1,5 +1,5 @@
 # Hey 👋 I'm Titus Decali
-I'm a Vue.js developer & UX/UI product designer working on traditional and Web 3.0 apps.
+I'm a frontend developer & UX/UI product designer working on traditional and Web 3.0 apps in Vue & Next.js
 <br>
 
 <!--- 
