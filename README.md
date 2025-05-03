@@ -1,5 +1,5 @@
 # Hey 👋 I'm Titus Decali
-I'm a frontend developer & UX/UI product designer working on traditional and Web 3.0 apps in Vue, Nuxt & Next.js
+I'm a fullstack developer & UX/UI product designer working on traditional and Web 3.0 apps in Vue and Nuxt.js
 <br>
 
 <!--- 
