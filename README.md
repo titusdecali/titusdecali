@@ -1,5 +1,8 @@
 # Hey 👋 I'm Titus Decali
-I'm a fullstack developer & UX/UI product designer working on traditional and Web 3.0 apps in Vue and Nuxt.js
+I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.js
+
+Want multilingual support in your React,Next,Vue,Nuxt app? Check out Stringer CLI to get it done painlessly and in minutes.
+[Stringer CLI](https://stringer-cli.com/)
 <br>
 
 <!--- 
