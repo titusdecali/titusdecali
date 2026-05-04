@@ -1,8 +1,6 @@
 # Hey 👋 I'm Titus Decali
 I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.
 
-<br>
-
 <!--- 
 <br>
 ## I'm a co-founder of two SaaS studios
@@ -21,11 +19,11 @@ I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.
   <img src="/assets/header-enzyme.jpg" alt="Enzymelabs">
 </a>
 --->
-
+<div style="display: flex">
 <a href="https://www.linkedin.com/in/titusdecali" target="_blank" rel="nofollow"><img align="left" alt="Decali's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <a href="https://twitter.com/titusdecali" target="_blank" rel="nofollow"><img align="left" alt="Decali's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-
+</div>
 <br>
 
 ## For more about me
