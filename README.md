@@ -30,6 +30,6 @@ I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.
 
 - 🔥  View my current projects at [TitusDecali.com](https://titusdecali.com/)
 - ✍️  I write about design & Vue on my [Medium Blog](https://medium.com/@titusdecali)
-- ✍️  Need your website translated including images? [Proxylang](https://proxylang.dev)
+- 🌐  Need your website translated (including text in images)? [Proxylang](https://proxylang.dev)
 
 </details>
