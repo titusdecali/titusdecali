@@ -31,7 +31,7 @@ I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.
 ### [Proxylang](https://proxylang.dev)
 
 <a href="https://proxylang.dev/?utm_source=github&utm_medium=profile">
-  <img src="https://raw.githubusercontent.com/Proxylang/handoff-bar/main/site/proxylang-banner.png" width="640" alt="Proxylang translates websites into 77 languages with one line of code">
+  <img src="https://proxylang.dev/social/proxylang-card-v2.jpg" width="400" alt="Proxylang: from website translation to global growth. Live Chat, SEO and GEO in 77+ languages">
 </a>
 
 Proxylang translates your whole website into 77 languages with one line of code. It translates text inside images too. No rebuild and no translation files to manage.
@@ -47,14 +47,6 @@ A free menu bar app for Mac and Windows. Claude Code chats get expensive once th
 [Download for Mac](https://github.com/Proxylang/handoff-bar/releases/latest/download/HandoffBar.dmg) · [Get it on the Microsoft Store](https://apps.microsoft.com/detail/9nsk9p03t9cn) · [Source](https://github.com/Proxylang/handoff-bar)
 
 <br clear="left">
-
-### [IndieLift](https://getindielift.com)
-
-<a href="https://getindielift.com">
-  <img src="https://getindielift.com/OG.jpg" width="640" alt="IndieLift: cross-promotion for indie authors">
-</a>
-
-Cross-promotion for indie authors. You share another author's book, and IndieLift counts every click you send. Then other authors share yours back, so your launch reaches real readers.
 
 ## For more about me
 
