@@ -36,6 +36,14 @@ I'm a fullstack developer & UX/UI product designer working on AI apps in Nuxt.
 
 Proxylang translates your whole website into 77 languages with one line of code. It translates text inside images too. No rebuild and no translation files to manage.
 
+### [Tappy](https://tappy.dog)
+
+<a href="https://tappy.dog">
+  <img src="https://tappy.dog/og.png" width="400" alt="Tappy: I find what's broken on your website. Free.">
+</a>
+
+Tappy finds what's broken on your website, for free. Paste a web address and Tappy opens your main pages in a real Chrome browser. It finds dead links, crashing pages, broken images, phone layout problems and accessibility issues. Each problem comes with a fix you can paste into your AI coding agent. No account needed.
+
 ### [HandoffBar](https://handoffbar.proxylang.dev)
 
 <a href="https://handoffbar.proxylang.dev">
